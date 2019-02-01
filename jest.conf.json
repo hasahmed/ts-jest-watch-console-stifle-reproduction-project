@@ -1,0 +1,11 @@
+{
+	"rootDir": "",
+    "preset": "ts-jest",
+	"roots": [
+		"<rootDir>"
+	],
+    "testPathIgnorePatterns": [
+        "node_modules",
+        "dist"
+    ]
+}
